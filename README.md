@@ -3,10 +3,7 @@ Hi, I'm Batiste 👋  <br>Student developer and IT entrepreneur from Belgium.  <
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/batiste.vancoillie/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/batiste.vancoillie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batiste-vancoillie-622562291/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vancoillie6b@gmail.com)
+Batiste Vancoillie
 
 
 # 💻 Tech Stack:
